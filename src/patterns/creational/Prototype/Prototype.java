@@ -4,7 +4,8 @@ public class Prototype
 {
     private String data;
 
-    public Prototype(String data) {
+    public Prototype(String data)
+    {
         this.data = data;
     }
 
